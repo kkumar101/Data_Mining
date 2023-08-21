@@ -1,5 +1,4 @@
 $28.58 billion dollar was lost due to credit card fraud in 2020. Countires such as US and UK are more prone to credit card fraud. Credit card fraud is increasing by 18.4% every year. Card not present fraud : one type of fraud common for e-commerce 
-
 ![image](https://github.com/kkumar101/Data_Mining/assets/142634004/5879e947-647c-45c9-b3b5-33e7bed0ef18)
 ![image](https://github.com/kkumar101/Data_Mining/assets/142634004/543589b8-b8ec-4138-b767-c169e08fbe6f)
 ![image](https://github.com/kkumar101/Data_Mining/assets/142634004/dab808bd-b37f-4188-99a8-7b52210c7b1c)
